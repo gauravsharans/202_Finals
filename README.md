@@ -1,5 +1,5 @@
 # 202_Finals
-# Pneumonia severity score prediction Tool
+# Pneumonia severity-score Prediction Tool
 
 Google Drive Link: https://drive.google.com/drive/folders/1BHdRGifTUmPfJPVxtunuRmONMPPQmp7X?usp=sharing
 
